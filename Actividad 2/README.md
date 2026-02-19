@@ -38,4 +38,3 @@ O bien usando cualquier IDE de su preferencia para compilar y ejecutar el archiv
 
 Los resultados se guardarán automáticamente en el archivo `sequenceStandard.txt`, donde podrá ver la secuencia de números generados.
 
-**Nota:** El archivo `sequenceStandard.txt` ya contiene resultados de una ejecución previa, por lo que puede revisarlo directamente sin necesidad de compilar si solo desea ver la salida esperada.
